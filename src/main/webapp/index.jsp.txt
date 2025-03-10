@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title>Spidey Web</title>
+</head>
+<body>
+    <h1>Hello, this is Spidey! Welcome to my website.</h1>
+    <img src="images/spiderman.jpg" alt="Spiderman" width="400">
+</body>
+</html>
