@@ -1,9 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
 <html>
 <head>
-    <title>Spidey Web</title>
+    <title>Spidey Says Hello</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin: 50px;
+        }
+        img {
+            width: 300px;
+            height: auto;
+        }
+    </style>
 </head>
 <body>
-    <h1>Hello, this is Spidey! Welcome to my website.</h1>
-    <img src="images/spiderman.jpg" alt="Spiderman" width="400">
+    <h1>Hello, this is Spidey!</h1>
+    <img src="spidey.jpg" alt="Spider-Man">
 </body>
 </html>
